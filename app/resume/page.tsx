@@ -30,7 +30,7 @@ export default function Resume() {
               <span>•</span>
               <span>julian.p.712@outlook.com</span>
               <span>•</span>
-              <span>https://www.linkedin.com/in/julian-pionke-01a137397</span>
+              <span>https://www.linkedin.com/in/julian-pionke-60b38339a/</span>
             </div>
           </div>
 
