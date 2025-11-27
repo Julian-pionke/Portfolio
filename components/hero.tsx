@@ -53,13 +53,13 @@ export default function Hero() {
 
           <div className="flex gap-4 justify-center pt-6 animate-fadeIn [animation-delay:600ms]">
             <a 
-              href="mailto:julian.p.712@outlook.com"
+              href="mailto:julian.p.27@outlook.com"
               className="px-8 py-4 bg-primary text-primary-foreground rounded-lg font-medium hover:shadow-2xl hover:shadow-primary/30 hover:scale-110 transition-all duration-300 transform hover:-translate-y-1"
             >
               Get in touch
             </a>
             <a 
-              href="https://www.linkedin.com/in/julian-pionke-01a137397"
+              href="https://www.linkedin.com/in/julian-pionke-60b38339a/"
               target="_blank"
               rel="noopener noreferrer"
               className="px-8 py-4 border border-border rounded-lg font-medium hover:bg-accent hover:text-accent-foreground transition-all duration-300 hover:shadow-2xl hover:shadow-accent/30 hover:scale-110 transform hover:-translate-y-1"
